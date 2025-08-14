@@ -1,1 +1,1 @@
-print("2 is a odd number)
+print("2 is a odd number")
